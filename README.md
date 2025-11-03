@@ -2,8 +2,12 @@
 - Este repositorio ha sido creado como parte de las actividades académicas del curso de IA.
 En él se documentan los avances, desarrollos y resultados obtenidos durante el trabajo asignado.
 
-##Entrega 2
-Link video: https://www.youtube.com/watch?v=xdek2mKAVfo&feature=youtu.be
+## ENTREGA 2
+## Video explicativo del proyecto
+
+En este video se muestra el avance actual del proyecto, el preprocesamiento de datos realizado y las principales dificultades encontradas durante el desarrollo.
+
+[![Ver video en YouTube](https://img.youtube.com/vi/xdek2mKAVfo/0.jpg)](https://youtu.be/xdek2mKAVfo)
 
 ## Integrantes
 -Juan Esteban Diosa Sanmartin
